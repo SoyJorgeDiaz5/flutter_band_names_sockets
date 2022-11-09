@@ -14,6 +14,9 @@ This section contains the user interface to interact with a static list
 
 **Concepts applied**: *User Interface, Input Dialog iOS & Android, Dismissible, List*
 
+<img src="https://user-images.githubusercontent.com/8885731/200887484-765f6ab3-717c-4ba6-9580-b96d9e8e7852.gif" alt="demo-ui" width="200"/>
+
+
 ---
 
 * Course available on [Udemy](https://www.udemy.com/course/flutter-avanzado-fernando-herrera/)
